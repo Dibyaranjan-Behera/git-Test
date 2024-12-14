@@ -8,6 +8,7 @@ public class GitProject01TestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitProject01TestApplication.class, args);
+		System.out.println("Dibya");
 	}
 
 }
